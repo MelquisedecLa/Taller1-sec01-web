@@ -7,12 +7,6 @@ class Producto {
         this.stock = stock;
     }
 
-    PrecioTotal() {
-        return (precio * stock);
-    }
-    StockProducto()  {
-        return (nombre + ' ' + precio);
-    }
 }
 
 let producto1 = new Producto("agua", 10, 5);
