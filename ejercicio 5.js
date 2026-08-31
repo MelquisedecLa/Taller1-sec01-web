@@ -4,6 +4,6 @@ function GeneradorDeUsuarios(nombreCompleto){
         let nombre = nombreCompleto.split(' ')[0];
         let apellido = nombreCompleto.split(' ')[1];
         let usuario = (nombre + apellido).toLowerCase();
-        return usuario;
+        return usuario + '_dev';
     }
 }
