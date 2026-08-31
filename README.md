@@ -1,2 +1,2 @@
 # Taller1-sec01-web
-mauri
+Estos ejercicios son super pros, para que se deleiten en el código de semejante belleza que veran ;)
